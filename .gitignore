@@ -1,0 +1,19 @@
+# Project exclude paths
+/.gradle/
+/Cinema Room Manager/task/build/
+/Cinema Room Manager/task/out/
+/Cinema Room Manager/task/out/production/classes/
+/Topics/Multidimensional array/Cinema/out/
+/Topics/Multidimensional array/Cinema/out/production/classes/
+/Topics/Multidimensional array/Fill the matrix by numbers/out/
+/Topics/Multidimensional array/Fill the matrix by numbers/out/production/classes/
+/Topics/Multidimensional array/Maximum element in a matrix/out/
+/Topics/Multidimensional array/Maximum element in a matrix/out/production/classes/
+/Topics/Multidimensional array/Rotate a rectangle array/out/
+/Topics/Multidimensional array/Rotate a rectangle array/out/production/classes/
+/Topics/Multidimensional array/Swap the columns/out/
+/Topics/Multidimensional array/Swap the columns/out/production/classes/
+/Topics/Multidimensional array/Symmetric matrix/out/
+/Topics/Multidimensional array/Symmetric matrix/out/production/classes/
+/Topics/Multidimensional array/The star figure/out/
+/Topics/Multidimensional array/The star figure/out/production/classes/
